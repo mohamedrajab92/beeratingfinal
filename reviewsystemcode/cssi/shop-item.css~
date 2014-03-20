@@ -1,0 +1,26 @@
+body {
+  padding-top: 70px
+}
+
+.thumbnail img {
+  width: 100%;
+}
+
+.ratings {
+  color:rgba(20, 175, 113, 0.97);
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.thumbnail {
+  padding: 0;
+}
+
+.thumbnail .caption-full {
+  padding: 9px;
+  color: rgba(165, 152, 152, 0.95);
+}
+
+footer {
+  margin: 50px 0;
+}
